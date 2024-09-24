@@ -1,0 +1,8 @@
+tensorflow          # For Keras and deep learning
+opencv-python       # For image and video processing
+mtcnn                # For face detection
+streamlit           # For building the web app
+numpy             # For numerical operations
+Pillow              # For image handling
+scikit-learn         # For machine learning metrics and utilities
+matplotlib           # For plotting and visualizations
